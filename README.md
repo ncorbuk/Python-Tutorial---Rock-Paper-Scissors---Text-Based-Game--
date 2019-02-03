@@ -3,7 +3,7 @@
 *#library* *#games* *#example* *#code*
 
 ## Code Walk-through & Learning resources links
-**YouTube tutorial: https://bit.ly/2T3E8nG**
+**YouTube tutorial: https://bit.ly/2MRGvYE**
 
 **For python tutorials: https://bit.ly/2U58Lt9**
 
